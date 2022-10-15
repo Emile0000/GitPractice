@@ -303,7 +303,10 @@ class HW2 {
         return;
     } // mission3()
 
-    void mission4() {
+    void mission4() { // debugging test is stored testest tttttttt testttt
+        // ettete;osmg;lvsmrgl
+        // kshkshf
+        //dkhgkd
         int fileNums = 0;
         string fileName1 = "", fileNameM = "", tempStr = "";
         vector<vector<string>> files;
